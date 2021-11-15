@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Yo soy Renato Giacometto Millán</h1>
-<h3 align="center">Desarrollador Web en constante aprendizaje.</h3>
+<h3 align="center">Desarrollador Web en constante aprendizaje. Fan de la programación, con el interes de aprender los diferentes lenguajes de programación y con mucho entusiasmo de pulir mis conocimientos.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
